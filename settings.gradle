@@ -1,0 +1,2 @@
+include ':launcher', ':HorizontalVariableListView'
+project(':HorizontalVariableListView').projectDir = new File('library/HorizontalVariableListView')

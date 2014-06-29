@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/home/alexander/sourceGit/Smart-TV-Launcher/launcher/build/intermediates/pre-dexed/debug/classes-3221a00d00024ccb5b80024dc7b73daff8cb56ff.jar"
+        jar="/home/alexander/sourceGit/Smart-TV-Launcher/build/intermediates/exploded-aar/it.sephiroth.android.library.horizontallistview/HorizontalVariableListView/1.2.2/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="4ee249e77ff836f08032201a12ccd1762e394080"/>
+    <item
+        dex="/home/alexander/sourceGit/Smart-TV-Launcher/launcher/build/intermediates/pre-dexed/debug/support-v4-19.1.0-5dd20c1c509e7ee0ec4b7f67fcc53994f919ba15.jar"
+        jar="/home/alexander/sdk/android/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+    <item
+        dex="/home/alexander/sourceGit/Smart-TV-Launcher/launcher/build/intermediates/pre-dexed/debug/guava-15.0-2ee249d3f4eb53a9b56262a31e541a8b0a1fdd12.jar"
+        jar="/home/alexander/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/15.0/ed727a8d9f247e2050281cb083f1c77b09dcb5cd/guava-15.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="ed727a8d9f247e2050281cb083f1c77b09dcb5cd"/>
+
+</pre-dex-items>
